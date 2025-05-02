@@ -1,0 +1,1 @@
+This is the project aiming to make you understand the git and github functionalities and features
